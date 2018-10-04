@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammed Mamdouh"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/full.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Scientist"
   location         : "Port-said, Egypt"
   email            : "muhammedsalama1995@gmail.com"
