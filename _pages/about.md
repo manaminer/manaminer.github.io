@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/cover.png"
+  image: "/images/cover2.png"
 ---
 
 I'm a mechanical engineer student who's passionate about data science , statistics and building models.
