@@ -21,4 +21,17 @@ Also:
 
 * The "useful" and "funny" columns are similar to the "cool" column.
 
-### The link to the Github repository [link](https://https://github.com/manaminer/NLP-YELP)
+### The link to the Github repository[HERE](https://github.com/manaminer/NLP-YELP)
+
+#### Doing some Exploratory Data Analysis
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/art1/art1heatmap.png" alt="">
+
+## Conclusion
+Making two models:
+* 1st with ordinary train_test_split then fitting to Naive Bayes Algorithm which gave results of 92% accuracy.
+* 2nd with implementing Pipeline tuples with same steps in 1st model plus adding Tfidf Transformer which gave results of 66% accuracy and incorrect model.
+
+So in this project Tfidf Transformer wasn't the best choice to use.
+
+Yet you can clone the project from [HERE](https://github.com/manaminer/NLP-YELP) and try other methods !
