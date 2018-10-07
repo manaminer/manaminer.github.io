@@ -21,7 +21,7 @@ Also:
 
 * The "useful" and "funny" columns are similar to the "cool" column.
 
-### The link to the Github repository[HERE](https://github.com/manaminer/NLP-YELP)
+### The link to the Github repository [HERE](https://github.com/manaminer/NLP-YELP)
 
 #### Doing some Exploratory Data Analysis
 
